@@ -1,5 +1,4 @@
-# Countdown_newyear
-This is a countdown for a new year set in previous year
+
 # CountDown
 simple CountDown Timer
 
@@ -7,7 +6,6 @@ simple CountDown Timer
 #### HTML
 #### CSS
 #### JavaScript
-#### Bootstrap
 <h1>CountDown App</h1>
 <h3>A simple countdown to inform the userthat how many days /time left to New year or it can set to any Limited Time Offer Reminder</h3>
 <hr>
